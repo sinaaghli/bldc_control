@@ -1,0 +1,51 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\sm\Google Drive\Projects\magnelab\BLDC Control\PCB\PCBBLDCDriver.PcbDoc
+Date     : 10/16/2017
+Time     : 12:44:34 PM
+
+Processing Rule : Clearance Constraint (Gap=0.178mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 5V_IRFS Between Pad Free-4(86.868mm,87.122mm) on Multi-Layer And Pad Free-4(95.758mm,87.63mm) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=5.08mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.4mm) (MaxHoleWidth=0.5mm) (PreferredHoleWidth=0.5mm) (MinWidth=0.6mm) (MaxWidth=0.8mm) (PreferedWidth=0.8mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.01mm, Vertical Gap = 0.01mm ) (All),(All) 
+   Violation between Component Clearance Constraint: (Collision < 0.01mm) Between SMT Small Component C32-1000uF (73.787mm,50.038mm) on Top Layer And SMT Small Component C28-1000uF (84.963mm,49.958mm) on Top Layer 
+   Violation between Component Clearance Constraint: (Collision < 0.01mm) Between SMT Small Component C32-1000uF (73.787mm,50.038mm) on Top Layer And Small Component PWR1-Terminal2 (64.897mm,53.467mm) on Top Layer 
+Rule Violations :2
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:01

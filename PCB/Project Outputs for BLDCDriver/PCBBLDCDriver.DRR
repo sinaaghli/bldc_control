@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCBBLDCDriver.PcbDoc   10/16/2017  12:35:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCBBLDCDriver.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             44        PTH        65.00mm (2.56inch)
+T2      0.5mm (20mil)                                             Round             152       PTH        729.98mm (28.74inch)
+T3      0.9mm (35mil)                                             Round             21        PTH        145.34mm (5.72inch)
+T4      1.2mm (47mil)                                             Round             2         PTH        6.40mm (0.25inch)
+T5      1.5mm (59mil)                                             Round             3         PTH        26.82mm (1.06inch)
+T6      2mm (79mil)                                               Round             4         PTH        80.28mm (3.16inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              226
+
+Total Processing Time (hh:mm:ss) : 00:00:00
